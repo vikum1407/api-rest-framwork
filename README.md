@@ -24,15 +24,15 @@ A robust and scalable REST API automation framework built with **Java**, **RestA
 
 ## 🛠️ Tech Stack
 
-| Technology | Purpose |
-|------------|---------|
-| Java 17+ | Programming Language |
-| Maven 3.9+ | Build & Dependency Management |
+| Technology       | Purpose |
+|------------------|---------|
+| Java 11+         | Programming Language |
+| Maven 3.9+       | Build & Dependency Management |
 | RestAssured 5.3+ | REST API Testing |
-| TestNG 7.8+ | Test Framework |
-| Jackson 2.15+ | JSON Processing |
-| Lombok 1.18+ | Reduce Boilerplate Code |
-| Hamcrest 2.2+ | Assertion Matchers |
+| TestNG 7.8+      | Test Framework |
+| Jackson 2.15+    | JSON Processing |
+| Lombok 1.18+     | Reduce Boilerplate Code |
+| Hamcrest 2.2+    | Assertion Matchers |
 
 ## 📁 Project Structure
 
@@ -79,7 +79,7 @@ RestAssured-API-Framework/
 
 ## 📋 Prerequisites
 
-- Java JDK 17 or higher
+- Java JDK 11 or higher
 - Apache Maven 3.9+
 - Git
 - IntelliJ IDEA / Eclipse (recommended)
@@ -286,21 +286,17 @@ public class CreateUserTest extends BaseTest {
 4. Push to branch (`git push origin feature/new-feature`)
 5. Open Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License
-
 ## 👤 Author
 
-**Your Name**
-- Email: your.email@example.com
-- LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)
-- GitHub: [@your-username](https://github.com/your-username)
+**Vikum Sugathadasa**
+- Email: vikum1407@gmail.com
+- LinkedIn: [Your Profile](https://www.linkedin.com/in/vikum-sugathadasa/)
+- GitHub: [@your-username](https://github.com/vikum1407)
 
 ## 📞 Support
 
 For issues and questions:
-- Open an [Issue](https://github.com/your-username/restassured-api-framework/issues)
+- Open an [Issue](https://github.com/vikum1407/api-rest-framwork/issues)
 - Contact via email
 
 ## 🗺️ Roadmap
