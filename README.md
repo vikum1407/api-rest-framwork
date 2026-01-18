@@ -1,6 +1,6 @@
 # REST API Automation Framework
 
-![Java](https://img.shields.io/badge/Java-17-orange)
+![Java](https://img.shields.io/badge/Java-11-orange)
 ![RestAssured](https://img.shields.io/badge/RestAssured-5.3-green)
 ![TestNG](https://img.shields.io/badge/TestNG-7.8-red)
 ![Maven](https://img.shields.io/badge/Maven-3.9-blue)
@@ -290,8 +290,8 @@ public class CreateUserTest extends BaseTest {
 
 **Vikum Sugathadasa**
 - Email: vikum1407@gmail.com
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/vikum-sugathadasa/)
-- GitHub: [@your-username](https://github.com/vikum1407)
+- LinkedIn: [My Profile](https://www.linkedin.com/in/vikum-sugathadasa/)
+- GitHub: [@my-username](https://github.com/vikum1407)
 
 ## 📞 Support
 
