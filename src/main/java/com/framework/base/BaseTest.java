@@ -11,5 +11,4 @@ public class BaseTest {
         RestAssured.baseURI = ConfigReader.getProperty("base.url");
     }
 
-
 }
