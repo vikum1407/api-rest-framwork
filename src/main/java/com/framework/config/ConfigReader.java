@@ -15,7 +15,7 @@ public class ConfigReader {
                     .getResourceAsStream("config/qa.properties");
 
         }catch (Exception e){
-            throw new RuntimeException("Failed to load config file");
+            throw new RuntimeException("Failed to load config file", e);
         }
     }
 
